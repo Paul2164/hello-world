@@ -3,7 +3,7 @@ function addNum (a,b) {
     return a + b;
 }
 
-let result = addNum(2,1)
+let result = addNum(3,2)
 console.log(result)
 
 function subtract (c,d) {

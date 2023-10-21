@@ -28,3 +28,10 @@ img {
     width: 100vw;
     height: 100vh;
 }
+#btn {
+    background-color:blue ;
+    padding: 10px;
+    font-size: 10px;
+}
+
+
